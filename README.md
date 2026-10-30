@@ -51,3 +51,5 @@ Any label starting with `fault` counts as a fault. Use one name per fault across
 ## Data
 
 F3 Demo 2023 from dGB Earth Sciences' Open Seismic Repository (dgbes.com/data). It was exported from OpendTect as post-stack 3D SEG-Y. The data is not included in this repo.
+
+![Inline 250 with fault_0 pick](docs/il_00250_overlay.png)
