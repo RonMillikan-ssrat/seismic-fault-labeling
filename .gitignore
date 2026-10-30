@@ -1,0 +1,11 @@
+# seismic data and generated outputs (large)
+*.sgy
+*.segy
+*.npy
+inlines/
+test/
+
+# python
+__pycache__/
+*.pyc
+.venv/
