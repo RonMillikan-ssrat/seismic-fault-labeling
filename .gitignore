@@ -9,3 +9,9 @@ test/
 __pycache__/
 *.pyc
 .venv/
+models/
+gxl/
+pred*/
+*.hdf5
+*.dat
+*:Zone.Identifier
